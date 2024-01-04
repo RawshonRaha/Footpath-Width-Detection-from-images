@@ -6,4 +6,4 @@ Automatic detection of the curb and measurement of the footpath width based on a
  1. https://github.com/raha-rawshon/footpath-width/blob/main/segment_training_image.m
  2. https://github.com/raha-rawshon/footpath-width/blob/main/cnn_color_train.m
  3. https://github.com/raha-rawshon/footpath-width/blob/main/image_meanvalue.m
- 4. https://github.com/raha-rawshon/footpath-width/blob/main/cnn_color_train.m
+ 4. https://github.com/raha-rawshon/footpath-width/blob/main/cnn_test_footpath_width.m
